@@ -13,5 +13,5 @@ To run these animations locally, you'll need the following:
 
 You can install the required packages with pip:
 
-pip install manim
+pip install manim \\
 pip install manim-rubikscube
